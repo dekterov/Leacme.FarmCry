@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mouse.ogg-817d732034d1767615200c57a7c13ec5.oggstr"
+
+[deps]
+
+source_file="res://assets/animals/mouse.ogg"
+dest_files=[ "res://.import/mouse.ogg-817d732034d1767615200c57a7c13ec5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
