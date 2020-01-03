@@ -4,8 +4,8 @@
 
 This application features the ability to mimic some farm animal noises.
 
-![index](https://user-images.githubusercontent.com/6654513/71702021-61eed400-2d8a-11ea-80d2-33780296ba23.png)
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71702021-61eed400-2d8a-11ea-80d2-33780296ba23.png)
 
 ## Application Compiling
 
